@@ -20,4 +20,13 @@ Using over 1,000 content pieces and 24,000+ user reactions, this report helps an
 
 - How many content pieces fail to generate any engagement at all?
 
+# Key Insights
+- Top Categories: Animals, Science, Healthy Eating, Technology, and Food consistently drive the highest scores and engagement.
 
+- Content Type: Photos are the most engaging, followed by Videos and GIFs. Audio ranks lowest in terms of user interaction.
+
+- Sentiment: Reactions are predominantly Positive, followed by Negative, then Neutral.
+
+- Performance: The average content score is 39.62, and 3.8% of posts receive zero reactions, indicating room for content optimization.
+
+- Peak Engagement Times: Users are most active early in the morning (5–9 AM) and late at night (10–11 PM), with 6 AM seeing the highest activity.
