@@ -47,6 +47,28 @@ To enhance exploration and executive decision-making, the report includes:
 
 - Bookmark Toggle: Easily switch between Top 5 and Bottom 5 content categories using the button on the top-right of the bar chart (Ctrl + Click to interact).
 
-- Drill-Through Pages: Right-click on data points related to Content Type, Sentiment, or Category to access a more detailed view.
+- Drill-Through Pages: Right-click on data points related to Content Type, Sentiment, or Content Category to access a more detailed view.
 
 - Hierarchical Drill-Down: In the “Reactions by Month” line chart, drill from Month to Weekday for more granular trend analysis.
+
+# Page Navigation
+Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) to move between:
+
+- Overview Page
+
+- Executive Report
+
+- Detail Page
+
+# Tools and Skills Used
+- Power BI Desktop: Report creation and visual storytelling.
+
+- Power Query: To effectively clean and transform the data as per the analysis requirement.
+
+- DAX (Data Analysis Expressions): To create complex measure calculations, calculated tables and calculated columns.
+
+- Data Modeling: Relationship building, column formatting, and hierarchy creation.
+
+- Effective Visualization: Insightful, intuitive visual layout for business users.
+
+- Power BI Service: To deploy and maintain Power BI assets.
