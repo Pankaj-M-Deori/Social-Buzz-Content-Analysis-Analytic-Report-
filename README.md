@@ -9,4 +9,15 @@ Accenture’s internal social media team wanted a data-driven overview of which 
 
 Using over 1,000 content pieces and 24,000+ user reactions, this report helps answer key business questions with clarity and precision through dynamic visuals.
 
+# Business Questions Answered
+- Which content categories generate the most engagement?
+
+- What are the most popular types of content (such as, photo, video, GIF, audio)?
+
+- What is the overall user sentiment toward content?
+
+- Are there specific times of day when users are more active?
+
+- How many content pieces fail to generate any engagement at all?
+
 
