@@ -41,3 +41,12 @@ Using over 1,000 content pieces and 24,000+ user reactions, this report helps an
 - Investigate the 3.8% of posts with zero engagement. Review content strategy and consider experimenting with formats, headlines, or timing.
 
 - Given that Positive sentiment dominates user reactions, continue developing uplifting or inspiring content to sustain user interest and loyalty.
+
+# Interactive Features
+To enhance exploration and executive decision-making, the report includes:
+
+- Bookmark Toggle: Easily switch between Top 5 and Bottom 5 content categories using the button on the top-right of the bar chart (Ctrl + Click to interact).
+
+- Drill-Through Pages: Right-click on data points related to Content Type, Sentiment, or Category to access a more detailed view.
+
+- Hierarchical Drill-Down: In the “Reactions by Month” line chart, drill from Month to Weekday for more granular trend analysis.
