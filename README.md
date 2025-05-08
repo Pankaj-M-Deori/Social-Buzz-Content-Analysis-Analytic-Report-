@@ -96,27 +96,27 @@ This project demonstrates more than just technical skills—it shows I can:
 ## Strategic Opportunity for Social Buzz
 The insights from this project not only help explain what types of content perform best, they also open the door to new revenue opportunities and ways to improve the platform experience.
 
-Creator Growth Membership Program - Social Buzz can introduce a membership plan for content creators who want to grow faster on the platform. This plan could offer:
+Creator Growth Membership Program: Social Buzz can introduce a membership plan for content creators who want to grow faster on the platform. This plan could offer:
 
-- Access to detailed content performance insights
+- Access to detailed content performance insights.
 
-- Personalized posting suggestions based on engagement trends
+- Personalized posting suggestions based on engagement trends.
 
-- Educational content like articles, blogs, and mentorship sessions
+- Educational content like articles, blogs, and mentorship sessions.
 
-- Tools to help creators improve content quality and visibility
+- Tools to help creators improve content quality and visibility.
 
 This would allow Social Buzz to support creators while generating additional revenue from a value-added service.
 
-Creator Intelligence Dashboard (Future Upgrade) - As the platform grows, Social Buzz could also build a self-service analytics dashboard for creators. This would provide real-time insights like:
+Creator Intelligence Dashboard (Future Upgrade): As the platform grows, Social Buzz could also build a self-service analytics dashboard for creators. This would provide real-time insights like:
 
-- Which of their posts are getting the most engagement
+- Which of their posts are getting the most engagement?
 
-- What time their followers are most active
+- What time their followers are most active?
 
-- How sentiment changes across their recent content
+- How sentiment changes across their recent content?
 
-- Which formats (Photo, Video, GIF) work best for them
+- Which formats (Photo, Video, GIF, Audio) work best for them?
 
 A freemium model could be used — offering basic stats to all creators, with advanced insights available in a paid plan.
 
