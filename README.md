@@ -120,6 +120,6 @@ Creator Intelligence Dashboard (Future Upgrade): As the platform grows, Social B
 
 - Which formats (Photo, Video, GIF, Audio) work best for them?
 
-A freemium model could be used — offering basic stats to all creators, with advanced insights available in a paid plan.
+A freemium model could be used, offering basic stats to all creators, with advanced insights available in a paid plan.
 
 By investing in creator tools and learning resources, Social Buzz can improve overall content quality, increase user engagement, and create a stronger, more profitable platform.
