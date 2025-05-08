@@ -76,7 +76,7 @@ Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) 
 ## Resources & Links
 - <a href="https://drive.google.com/drive/folders/1cck8iLWCJw5Yigrowx9CsBjjz6r7aUD0?usp=sharing">Dataset Source: Provided by Accenture (CSV format).
 
-- Client Brief: See “Data_Analytics Client Brief” PDF for context.
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Data_Analytics%20Client%20Brief.pdf">Client Brief: See “Data_Analytics Client Brief” PDF for context.
 
 - Internal Stakeholders: CEO, CMO, Content Strategist (You act as the Data Analyst).
 
