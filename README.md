@@ -51,14 +51,7 @@ To enhance exploration and executive decision-making, the report includes:
 
 - Hierarchical Drill-Down: In the “Reactions by Month” line chart, drill from Month to Weekday for more granular trend analysis.
 
-## Page Navigation
-Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) to move between:
-
-- Overview Page
-
-- Executive Report
-
-- Detail Page
+- Page Navigation: Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) to move between: Overview Page, Executive Report and Detail Page.
 
 ## Tools and Skills Used
 - Power BI Desktop: Report creation and visual storytelling.
