@@ -83,7 +83,7 @@ Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) 
 - <a href="https://app.powerbi.com/links/OBD0g5wd6B?ctid=7f2cea9c-d8e4-4c74-a024-cb436d9ecfd5&pbi_source=linkShare">Social Buzz Content Analysis – Power BI Report.
 
 ## Why This Project Matters ?
-This project demonstrates more than just technical skills—it shows I can:
+This project demonstrates more than just technical skills, it shows I can:
 
 - Understand and prioritize executive goals.
 
