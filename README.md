@@ -73,8 +73,8 @@ Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) 
 
 - Power BI Service: To deploy and maintain Power BI assets.
 
-## Dataset & Resources
-- Dataset Source: Provided by Accenture (CSV format).
+## Resources & Links
+- <a href="https://drive.google.com/drive/folders/1cck8iLWCJw5Yigrowx9CsBjjz6r7aUD0?usp=sharing">Dataset Source: Provided by Accenture (CSV format).
 
 - Client Brief: See “Data_Analytics Client Brief” PDF for context.
 
