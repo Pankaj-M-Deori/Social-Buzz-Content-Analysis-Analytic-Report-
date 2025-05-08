@@ -74,11 +74,11 @@ Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) 
 - Power BI Service: To deploy and maintain Power BI assets.
 
 ## Resources & Links
-- <a href="https://drive.google.com/drive/folders/1cck8iLWCJw5Yigrowx9CsBjjz6r7aUD0?usp=sharing">Dataset Source: Provided by Accenture (CSV format).
+- <a href="https://drive.google.com/drive/folders/1cck8iLWCJw5Yigrowx9CsBjjz6r7aUD0?usp=sharing">Dataset provided by Accenture (CSV format).
 
-- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Data_Analytics%20Client%20Brief.pdf">Client Brief: See “Data_Analytics Client Brief” PDF for context.
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Data_Analytics%20Client%20Brief.pdf">Data_Analytics Client Brief.
 
-- Internal Stakeholders: CEO, CMO, Content Strategist (You act as the Data Analyst).
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Internal%20stakeholder%20chart.pdf">Internal Stakeholders Chart.
 
 - Report File: [Social Buzz Content Analysis – Power BI Report]
 
