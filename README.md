@@ -32,7 +32,7 @@ Using over 1,000 content pieces and 24,000+ user reactions, this report helps an
 - Peak Engagement Times: Users are most active early in the morning (5–9 AM) and late at night (10–11 PM), with 6 AM seeing the highest activity.
 
 # Recommendations
-- Focus on creating more content in the top-performing categories such as Animals, Science, Healthy Eating, Technology, and Food—as they show the strongest user engagement.
+- Focus on creating more content in the top-performing categories such as Animals, Science, Healthy Eating, Technology, and Food, since they show the strongest user engagement.
 
 - Leverage visual contents like Photos and Videos, which consistently receive higher engagement compared to Audio and Other types.
 
@@ -72,3 +72,54 @@ Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) 
 - Effective Visualization: Insightful, intuitive visual layout for business users.
 
 - Power BI Service: To deploy and maintain Power BI assets.
+
+# Dataset & Resources
+- Dataset Source: Provided by Accenture (CSV format).
+
+- Client Brief: See “Data_Analytics Client Brief” PDF for context.
+
+- Internal Stakeholders: CEO, CMO, Content Strategist (You act as the Data Analyst).
+
+- Report File: [Social Buzz Content Analysis – Power BI Report]
+
+# Why This Project Matters ?
+This project demonstrates more than just technical skills—it shows I can:
+
+- Understand and prioritize executive goals.
+
+- Translate raw data into actionable insights.
+
+- Present information in a way that’s easy to grasp for both technical and non-technical stakeholders.
+
+- Build end-to-end BI solutions that combine data modeling, DAX, and design thinking.
+
+# Strategic Opportunity for Social Buzz
+The insights from this project not only help explain what types of content perform best, they also open the door to new revenue opportunities and ways to improve the platform experience.
+
+1) Creator Growth Membership Program
+Social Buzz can introduce a membership plan for content creators who want to grow faster on the platform. This plan could offer:
+
+- Access to detailed content performance insights
+
+- Personalized posting suggestions based on engagement trends
+
+- Educational content like articles, blogs, and mentorship sessions
+
+- Tools to help creators improve content quality and visibility
+
+This would allow Social Buzz to support creators while generating additional revenue from a value-added service.
+
+2) Creator Intelligence Dashboard (Future Upgrade)
+As the platform grows, Social Buzz could also build a self-service analytics dashboard for creators. This would provide real-time insights like:
+
+- Which of their posts are getting the most engagement
+
+- What time their followers are most active
+
+- How sentiment changes across their recent content
+
+- Which formats (Photo, Video, GIF) work best for them
+
+A freemium model could be used — offering basic stats to all creators, with advanced insights available in a paid plan.
+
+By investing in creator tools and learning resources, Social Buzz can improve overall content quality, increase user engagement, and create a stronger, more profitable platform.
