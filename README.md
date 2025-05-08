@@ -2,14 +2,14 @@
 ## Overview
 This Power BI report delivers actionable insights on how users engage with content on a social media platform. The goal was to help internal stakeholders at Accenture identify top-performing content categories and understand user preferences to improve content strategy. This analysis was completed as part of the Accenture Job Simulation Program, where I served as the Data Analyst, responsible for handling the entire analytics workflow, from data cleaning to interactive visualization.
 
-# Project Objective
+## Project Objective
 Accenture’s internal social media team wanted a data-driven overview of which types of content perform best. The primary objective was to:
 
 - Identify the Top 5 Content Categories with the highest aggregate popularity scores, and uncover patterns in user engagement, sentiment, and timing.
 
 Using over 1,000 content pieces and 24,000+ user reactions, this report helps answer key business questions with clarity and precision through dynamic visuals.
 
-# Business Questions Answered
+## Business Questions Answered
 - Which content categories generate the most engagement?
 
 - What are the most popular types of content (such as, photo, video, GIF, audio)?
@@ -20,7 +20,7 @@ Using over 1,000 content pieces and 24,000+ user reactions, this report helps an
 
 - How many content pieces fail to generate any engagement at all?
 
-# Key Insights
+## Key Insights
 - Top Categories: Animals, Science, Healthy Eating, Technology, and Food consistently drive the highest scores and engagement.
 
 - Content Type: Photos are the most engaging, followed by Videos and GIFs. Audio ranks lowest in terms of user interaction.
@@ -31,7 +31,7 @@ Using over 1,000 content pieces and 24,000+ user reactions, this report helps an
 
 - Peak Engagement Times: Users are most active early in the morning (5–9 AM) and late at night (10–11 PM), with 6 AM seeing the highest activity.
 
-# Recommendations
+## Recommendations
 - Focus on creating more content in the top-performing categories such as Animals, Science, Healthy Eating, Technology, and Food, since they show the strongest user engagement.
 
 - Leverage visual contents like Photos and Videos, which consistently receive higher engagement compared to Audio and Other types.
@@ -42,7 +42,7 @@ Using over 1,000 content pieces and 24,000+ user reactions, this report helps an
 
 - Given that Positive sentiment dominates user reactions, continue developing uplifting or inspiring content to sustain user interest and loyalty.
 
-# Interactive Features
+## Interactive Features
 To enhance exploration and executive decision-making, the report includes:
 
 - Bookmark Toggle: Easily switch between Top 5 and Bottom 5 content categories using the button on the top-right of the bar chart (Ctrl + Click to interact).
@@ -51,7 +51,7 @@ To enhance exploration and executive decision-making, the report includes:
 
 - Hierarchical Drill-Down: In the “Reactions by Month” line chart, drill from Month to Weekday for more granular trend analysis.
 
-# Page Navigation
+## Page Navigation
 Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) to move between:
 
 - Overview Page
@@ -60,7 +60,7 @@ Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) 
 
 - Detail Page
 
-# Tools and Skills Used
+## Tools and Skills Used
 - Power BI Desktop: Report creation and visual storytelling.
 
 - Power Query: To effectively clean and transform the data as per the analysis requirement.
@@ -73,7 +73,7 @@ Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) 
 
 - Power BI Service: To deploy and maintain Power BI assets.
 
-# Dataset & Resources
+## Dataset & Resources
 - Dataset Source: Provided by Accenture (CSV format).
 
 - Client Brief: See “Data_Analytics Client Brief” PDF for context.
@@ -82,7 +82,7 @@ Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) 
 
 - Report File: [Social Buzz Content Analysis – Power BI Report]
 
-# Why This Project Matters ?
+## Why This Project Matters ?
 This project demonstrates more than just technical skills—it shows I can:
 
 - Understand and prioritize executive goals.
@@ -93,7 +93,7 @@ This project demonstrates more than just technical skills—it shows I can:
 
 - Build end-to-end BI solutions that combine data modeling, DAX, and design thinking.
 
-# Strategic Opportunity for Social Buzz
+## Strategic Opportunity for Social Buzz
 The insights from this project not only help explain what types of content perform best, they also open the door to new revenue opportunities and ways to improve the platform experience.
 
 Creator Growth Membership Program - Social Buzz can introduce a membership plan for content creators who want to grow faster on the platform. This plan could offer:
