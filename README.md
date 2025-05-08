@@ -96,8 +96,7 @@ This project demonstrates more than just technical skills—it shows I can:
 # Strategic Opportunity for Social Buzz
 The insights from this project not only help explain what types of content perform best, they also open the door to new revenue opportunities and ways to improve the platform experience.
 
-1) Creator Growth Membership Program
-Social Buzz can introduce a membership plan for content creators who want to grow faster on the platform. This plan could offer:
+Creator Growth Membership Program - Social Buzz can introduce a membership plan for content creators who want to grow faster on the platform. This plan could offer:
 
 - Access to detailed content performance insights
 
@@ -109,8 +108,7 @@ Social Buzz can introduce a membership plan for content creators who want to gro
 
 This would allow Social Buzz to support creators while generating additional revenue from a value-added service.
 
-2) Creator Intelligence Dashboard (Future Upgrade)
-As the platform grows, Social Buzz could also build a self-service analytics dashboard for creators. This would provide real-time insights like:
+Creator Intelligence Dashboard (Future Upgrade) - As the platform grows, Social Buzz could also build a self-service analytics dashboard for creators. This would provide real-time insights like:
 
 - Which of their posts are getting the most engagement
 
