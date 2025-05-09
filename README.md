@@ -66,6 +66,8 @@ To enhance exploration and executive decision-making, the report includes:
 
 - Power BI Service: To deploy and maintain Power BI assets.
 
+Note: A separate <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation<a/> is available for those who want to explore the full analytical process including data preparation, modeling, and DAX formulation.
+
 ## Resources & Links
 - <a href="https://drive.google.com/drive/folders/1cck8iLWCJw5Yigrowx9CsBjjz6r7aUD0?usp=sharing">Dataset provided by Accenture (CSV format)
 
