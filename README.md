@@ -71,15 +71,17 @@ Note: A separate <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-
 ## Resources & Links
 - <a href="https://drive.google.com/drive/folders/1cck8iLWCJw5Yigrowx9CsBjjz6r7aUD0?usp=sharing">Dataset provided by Accenture (CSV format)
 
-- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Data_Analytics%20Client%20Brief.pdf">Data_Analytics Client Brief
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Data_Analytics%20Client%20Brief.pdf">View Data Analytics Client Brief
 
-- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Internal%20stakeholder%20chart.pdf">Internal Stakeholders Chart
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Internal%20stakeholder%20chart.pdf">View Internal Stakeholders Chart
 
-- <a href="https://app.powerbi.com/links/OBD0g5wd6B?ctid=7f2cea9c-d8e4-4c74-a024-cb436d9ecfd5&pbi_source=linkShare">Social Buzz Content Analysis – Power BI Report
+- <a href="https://app.powerbi.com/links/OBD0g5wd6B?ctid=7f2cea9c-d8e4-4c74-a024-cb436d9ecfd5&pbi_source=linkShare">View Report in Power BI Service
 
-- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social%20Buzz%20Content%20Analysis%20(Report%20Layout).pdf">Social Buzz Content Analysis (Report Layout)
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social%20Buzz%20Content%20Analysis%20(Report%20Layout).pdf">View Report Layout in PDF Format
 
-- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation - Social Buzz Content Analysis
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">View Full Technical Documentation
+
+Note: If you want to view the report in Power BI Desktop, click Social_Buzz_Report.pbix
 
 ## Why This Project Matters ?
 This project demonstrates more than just technical skills, it shows I can:
