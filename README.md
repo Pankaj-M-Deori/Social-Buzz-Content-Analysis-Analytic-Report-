@@ -77,7 +77,7 @@ To enhance exploration and executive decision-making, the report includes:
 
 - <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social%20Buzz%20Content%20Analysis%20(Report%20Layout).pdf">Social Buzz Content Analysis (Report Layout)
 
-- Technical Documentation - Social Buzz Content Analysis
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation - Social Buzz Content Analysis
 
 ## Why This Project Matters ?
 This project demonstrates more than just technical skills, it shows I can:
