@@ -67,15 +67,15 @@ To enhance exploration and executive decision-making, the report includes:
 - Power BI Service: To deploy and maintain Power BI assets.
 
 ## Resources & Links
-- <a href="https://drive.google.com/drive/folders/1cck8iLWCJw5Yigrowx9CsBjjz6r7aUD0?usp=sharing">Dataset provided by Accenture (CSV format).
+- <a href="https://drive.google.com/drive/folders/1cck8iLWCJw5Yigrowx9CsBjjz6r7aUD0?usp=sharing">Dataset provided by Accenture (CSV format)
 
-- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Data_Analytics%20Client%20Brief.pdf">Data_Analytics Client Brief.
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Data_Analytics%20Client%20Brief.pdf">Data_Analytics Client Brief
 
-- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Internal%20stakeholder%20chart.pdf">Internal Stakeholders Chart.
+- <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Internal%20stakeholder%20chart.pdf">Internal Stakeholders Chart
 
-- <a href="https://app.powerbi.com/links/OBD0g5wd6B?ctid=7f2cea9c-d8e4-4c74-a024-cb436d9ecfd5&pbi_source=linkShare">Social Buzz Content Analysis – Power BI Report.
+- <a href="https://app.powerbi.com/links/OBD0g5wd6B?ctid=7f2cea9c-d8e4-4c74-a024-cb436d9ecfd5&pbi_source=linkShare">Social Buzz Content Analysis – Power BI Report
 
-- Social Buzz Content Analysis (Report Layout).
+- Social Buzz Content Analysis (Report Layout)
 
 ## Why This Project Matters ?
 This project demonstrates more than just technical skills, it shows I can:
