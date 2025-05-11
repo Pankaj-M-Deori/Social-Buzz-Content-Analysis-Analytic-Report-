@@ -19,28 +19,26 @@ This project demonstrates more than just technical skills, it shows I can:
 ## Business Questions Answered
 - Which content categories generate the most engagement?
 
-  Business Logic: Knowing which categories are most engaging (like Animals, Science, or Food) helps Social Buzz highlight what users 
+  - Business Logic: Knowing which categories are most engaging (like Animals, Science, or Food) helps Social Buzz highlight what users 
   enjoy the most. It also helps the team promote trending topics and give content creators a better idea of what audiences want.
 
 - What are the most popular types of content (such as, photo, video, GIF, audio)?
 
-  Business Logic: Some formats naturally get more engagement than others. By seeing which content types perform best, Social Buzz can 
+  - Business Logic: Some formats naturally get more engagement than others. By seeing which content types perform best, Social Buzz can 
   improve the user experience and help creators choose the right format to connect with their audience.
 
 - What is the overall user sentiment toward content?
 
-  Business Logic: Sentiment gives insight into how users feel about the content they interact with. Tracking this helps Social Buzz 
+  - Business Logic: Sentiment gives insight into how users feel about the content they interact with. Tracking this helps Social Buzz 
   maintain a positive vibe on the platform and spot any areas where content might not be landing well.
 
 - Are there specific times of day when users are more active?
 
-  Business Logic: Timing is everything when it comes to engagement. Knowing the hours or days when users are most active can help Social 
-  Buzz and its creators post content at the right time to get more reactions and visibility.
+  - Business Logic: Timing is everything when it comes to engagement. Knowing the hours or days when users are most active can help Social Buzz and its creators post content at the right time to get more reactions and visibility.
 
 - How many content pieces fail to generate any engagement at all?
 
-  Business Logic: If certain content doesn’t get any engagement, it could mean it’s not reaching the right audience or isn’t as relevant. 
-  Understanding this helps the platform improve content discovery and support creators in making better-performing posts.
+  - Business Logic: If certain content doesn’t get any engagement, it could mean it’s not reaching the right audience or isn’t as relevant. Understanding this helps the platform improve content discovery and support creators in making better-performing posts.
 
 ## Key Insights
 - Top Categories: Animals, Science, Healthy Eating, Technology, and Food consistently drive the highest scores and engagement.
