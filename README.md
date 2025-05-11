@@ -114,7 +114,7 @@ The findings from this project do more than highlight what’s working on the pl
 
   - Access to learning resources: Exclusive tutorials, webinars, and expert mentorship on how to grow on the platform.
 
-- Why This Freemium Model Works for Social Buzz:
+- Why This Freemium Model Works for Social Buzz ?
   - Boosts creator engagement by helping users improve their content.
 
   - Improves overall platform content quality, which attracts more users.
