@@ -88,11 +88,11 @@ This project demonstrates more than just technical skills, it shows I can:
 
 - Understand and prioritize executive goals.
 
-- Translate raw data into actionable insights.
+- Transform raw data into insightful visuals for better story-telling.
 
 - Present information in a way that’s easy to grasp for both technical and non-technical stakeholders.
 
-- Build end-to-end BI solutions that combine data modeling, DAX, and design thinking.
+- Build end-to-end BI solutions that combine data modeling, DAX, and designing user-friendly report layout.
 
 ## Strategic Opportunity for Social Buzz
 The insights from this project not only help explain what types of content perform best, they also open the door to new revenue opportunities and ways to improve the platform experience.
