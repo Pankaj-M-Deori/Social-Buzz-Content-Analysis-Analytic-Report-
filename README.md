@@ -96,13 +96,13 @@ This project demonstrates more than just technical skills, it shows I can:
 ## Strategic Opportunity for Social Buzz
 The findings from this project do more than highlight what’s working on the platform, they also reveal a chance for Social Buzz to support creators and grow the platform through a data-powered Freemium offering. Introducing a Creator Insights Program could help content creators improve their performance using platform data, while also opening up a new revenue stream for Social Buzz.
 
-Free Features (available to all creators): These features would help every creator even beginners to understand and improve their content strategy:
+- Free Features (available to all creators): These features would help every creator even beginners to understand and improve their content strategy:
 
-- Personalized performance insights: Stats like top-performing content types, average reaction score, and engagement patterns over time.
+  - Personalized performance insights: Stats like top-performing content types, average reaction score, and engagement patterns over time.
 
-- Posting time suggestions: Based on peak user activity windows (like 6 AM and 10–11 PM), creators can optimize when to publish their posts.
+  - Posting time suggestions: Based on peak user activity windows (like 6 AM and 10–11 PM), creators can optimize when to publish their posts.
 
-- Basic content tips: Simple, actionable suggestions like “Photos and GIFs get more reactions than audio content.”
+  - Basic content tips: Simple, actionable suggestions like “Photos and GIFs get more reactions than audio content.”
 
 Premium Features (available through a subscription plan): For creators who want to take their performance to the next level, the premium tier could include:
 
