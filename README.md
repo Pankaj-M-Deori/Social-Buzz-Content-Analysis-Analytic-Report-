@@ -94,7 +94,7 @@ This project demonstrates more than just technical skills, it shows I can:
 - Build end-to-end BI solutions that combine data modeling, DAX, and designing user-friendly report layout.
 
 ## Strategic Opportunity for Social Buzz
-The findings from this project do more than highlight what’s working — they also reveal a chance for Social Buzz to support creators and grow the platform through a data-powered Freemium offering. Introducing a Creator Insights Program could help content creators improve their performance using platform data, while also opening up a new revenue stream for Social Buzz.
+The findings from this project do more than highlight what’s working on the platform, they also reveal a chance for Social Buzz to support creators and grow the platform through a data-powered Freemium offering. Introducing a Creator Insights Program could help content creators improve their performance using platform data, while also opening up a new revenue stream for Social Buzz.
 
 Free Features (available to all creators): These features would help every creator even beginners to understand and improve their content strategy:
 
