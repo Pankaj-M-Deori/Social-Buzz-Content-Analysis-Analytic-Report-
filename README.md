@@ -20,6 +20,8 @@ Using over 1,000 content pieces and 24,000+ user reactions, this report helps an
 
 - How many content pieces fail to generate any engagement at all?
 
+![Executive Report Page](https://github.com/user-attachments/assets/7e59bef1-3359-4c78-95cb-e8336673c684)
+
 ## Key Insights
 - Top Categories: Animals, Science, Healthy Eating, Technology, and Food consistently drive the highest scores and engagement.
 
