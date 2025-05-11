@@ -7,6 +7,8 @@ Accenture’s internal team wanted a data-driven overview of which types of cont
 
 ## Business Questions Answered
 - Which content categories generate the most engagement?
+  Business Logic: Understanding which categories (e.g., Animals, Science, Food) perform best helps Social Buzz spotlight trending topics, 
+  guide content discovery algorithms, and inform future platform promotions. It also helps identify what users care about most.
 
 - What are the most popular types of content (such as, photo, video, GIF, audio)?
 
