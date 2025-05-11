@@ -104,24 +104,24 @@ The findings from this project do more than highlight what’s working on the pl
 
   - Basic content tips: Simple, actionable suggestions like “Photos and GIFs get more reactions than audio content.”
 
-Premium Features (available through a subscription plan): For creators who want to take their performance to the next level, the premium tier could include:
+- Premium Features (available through a subscription plan): For creators who want to take their performance to the next level, the premium tier could include:
 
-- Platform-wide trend reports: Insights into which categories, formats, and sentiments are currently trending across all of Social Buzz.
+  - Platform-wide trend reports: Insights into which categories, formats, and sentiments are currently trending across all of Social Buzz.
 
-- Competitive benchmarks: Compare a creator’s performance to platform averages or their own historical performance.
+  - Competitive benchmarks: Compare a creator’s performance to platform averages or their own historical performance.
 
-- Advanced content strategy tips: In-depth guides or personalized recommendations based on reaction type, sentiment trends, and audience behavior.
+  - Advanced content strategy tips: In-depth guides or personalized recommendations based on reaction type, sentiment trends, and audience behavior.
 
-- Access to learning resources: Exclusive tutorials, webinars, and expert mentorship on how to grow on the platform.
+  - Access to learning resources: Exclusive tutorials, webinars, and expert mentorship on how to grow on the platform.
 
-Why This Freemium Model Works for Social Buzz:
-- Boosts creator engagement by helping users improve their content.
+- Why This Freemium Model Works for Social Buzz:
+  - Boosts creator engagement by helping users improve their content.
 
-- Improves overall platform content quality, which attracts more users.
+  - Improves overall platform content quality, which attracts more users.
 
-- Strengthens loyalty and retention by supporting creators at all levels.
+  - Strengthens loyalty and retention by supporting creators at all levels.
 
-- Creates a new monetization path using insights already available within the platform.
+  - Creates a new monetization path using insights already available within the platform.
 
 This approach follows a proven model already used by platforms like YouTube (Studio Analytics) and LinkedIn (Creator Mode). With minimal added development, Social Buzz could become not just a content-sharing app, but a smart growth platform for creators.
 
