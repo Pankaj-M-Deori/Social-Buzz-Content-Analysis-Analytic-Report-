@@ -56,17 +56,6 @@ Accenture’s internal team wanted a data-driven overview of which types of cont
 
 - Around 3.8% of posts receive zero reactions. Social Buzz can tag this content category internally and analyze why it underperforms, whether due to content quality, timing, or visibility issues. This insight can feed back into algorithm improvements and creator feedback tools.
 
-## Interactive Features
-To enhance exploration and executive decision-making, the report includes:
-
-- Bookmark Toggle: Easily switch between Top 5 and Bottom 5 content categories using the button on the top-right of the bar chart (Ctrl + Click to interact).
-
-- Drill-Through Pages: Right-click on data points related to Content Type, Sentiment, or Content Category to access a more detailed view.
-
-- Hierarchical Drill-Down: In the “Reactions by Month” line chart, drill from Month to Weekday for more granular trend analysis.
-
-- Page Navigation: Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) to move between: Overview Page, Executive Report and Detail Page.
-
 ## Tools and Skills Used
 - Power BI Desktop: Report creation and visual storytelling.
 
@@ -81,6 +70,17 @@ To enhance exploration and executive decision-making, the report includes:
 - Power BI Service: To deploy and maintain Power BI assets.
 
 Note: A separate <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation<a/> is available for those who want to explore the full analytical process including data preparation, modeling, and DAX formulation.
+
+## Interactive Features
+To enhance exploration and executive decision-making, the report includes:
+
+- Bookmark Toggle: Easily switch between Top 5 and Bottom 5 content categories using the button on the top-right of the bar chart (Ctrl + Click to interact).
+
+- Drill-Through Pages: Right-click on data points related to Content Type, Sentiment, or Content Category to access a more detailed view.
+
+- Hierarchical Drill-Down: In the “Reactions by Month” line chart, drill from Month to Weekday for more granular trend analysis.
+
+- Page Navigation: Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) to move between: Overview Page, Executive Report and Detail Page.
 
 ## Why This Project Matters ?
 This project demonstrates more than just technical skills, it shows I can:
