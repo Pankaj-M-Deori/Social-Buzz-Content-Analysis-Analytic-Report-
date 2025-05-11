@@ -69,7 +69,7 @@ Accenture’s internal team wanted a data-driven overview of which types of cont
 
 - Power BI Service: To deploy and maintain Power BI assets.
 
-Note: A separate <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation is available for those who want to explore the full analytical process including data preparation, modeling, and DAX formulation.
+Note: A separate <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation<a/> is available for those who want to explore the full analytical process including data preparation, modeling, and DAX formulation.
 
 ## Interactive Features
 To enhance exploration and executive decision-making, the report includes:
