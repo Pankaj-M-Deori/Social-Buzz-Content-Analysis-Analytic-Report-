@@ -39,7 +39,7 @@ Accenture’s internal team wanted a data-driven overview of which types of cont
 
 - Content Type: Photos are the most engaging, followed by Videos and GIFs. Audio ranks lowest in terms of user interaction.
 
-- Sentiment: Reactions are predominantly Positive, followed by Negative, then Neutral.
+- Sentiment: Reactions are predominantly Positive, followed by Negative, and then Neutral.
 
 - Performance: The average content score is 39.62, and 3.8% of posts receive zero reactions, indicating room for content optimization.
 
