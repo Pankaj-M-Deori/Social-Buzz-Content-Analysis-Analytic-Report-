@@ -31,9 +31,6 @@ Accenture’s internal team wanted a data-driven overview of which types of cont
   Business Logic: If certain content doesn’t get any engagement, it could mean it’s not reaching the right audience or isn’t as relevant. 
   Understanding this helps the platform improve content discovery and support creators in making better-performing posts.
 
-![Executive Report Page](https://github.com/user-attachments/assets/7e59bef1-3359-4c78-95cb-e8336673c684)
-![Detail Page](https://github.com/user-attachments/assets/03a6c098-15c6-4cd7-95cc-459a1694395c)
-
 ## Key Insights
 - Top Categories: Animals, Science, Healthy Eating, Technology, and Food consistently drive the highest scores and engagement.
 
@@ -44,6 +41,9 @@ Accenture’s internal team wanted a data-driven overview of which types of cont
 - Performance: The average content score is 39.62, and 3.8% of posts receive zero reactions, indicating room for content optimization.
 
 - Peak Engagement Times: Users are most active early in the morning (5–9 AM) and late at night (10–11 PM), with 6 AM seeing the highest activity.
+
+![Executive Report Page](https://github.com/user-attachments/assets/7e59bef1-3359-4c78-95cb-e8336673c684)
+![Detail Page](https://github.com/user-attachments/assets/03a6c098-15c6-4cd7-95cc-459a1694395c)
 
 ## Recommendations
 - Social Buzz can feature high-performing categories like Animals, Science, Healthy Eating, Technology and Food more prominently on the homepage, explore feed, or trending sections. This helps sustain engagement by aligning the content discovery experience with what users already respond to most.
