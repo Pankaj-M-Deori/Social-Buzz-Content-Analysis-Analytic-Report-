@@ -14,7 +14,7 @@ This project demonstrates more than just technical skills, it shows I can:
 
 - Present information in a way that’s easy to grasp for both technical and non-technical stakeholders.
 
-- Build end-to-end BI solutions that combine data modeling, DAX, and designing user-friendly report layout.
+- Build end-to-end BI solutions that combine data preparation, data modeling, DAX, and designing user-friendly report layout.
 
 ## Business Questions Answered
 - Which content categories generate the most engagement?
