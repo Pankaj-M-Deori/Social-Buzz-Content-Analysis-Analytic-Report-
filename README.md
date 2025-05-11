@@ -54,7 +54,7 @@ Accenture’s internal team wanted a data-driven overview of which types of cont
 
 - Since users are most engaged early in the morning (around 6 AM) and late at night (10–11 PM), Social Buzz can take advantage of these busy hours. This is a great time to schedule things like platform updates, content promotions, or even send notifications, so they reach more users when they're already online.
 
-- Around 3.8% of posts receive zero reactions. Social Buzz can tag this content category internally and analyze why it underperforms — whether due to content quality, timing, or visibility issues. This insight can feed back into algorithm improvements and creator feedback tools.
+- Around 3.8% of posts receive zero reactions. Social Buzz can tag this content category internally and analyze why it underperforms, whether due to content quality, timing, or visibility issues. This insight can feed back into algorithm improvements and creator feedback tools.
 
 ## Interactive Features
 To enhance exploration and executive decision-making, the report includes:
