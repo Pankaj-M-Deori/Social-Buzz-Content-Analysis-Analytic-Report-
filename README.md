@@ -46,15 +46,15 @@ Accenture’s internal team wanted a data-driven overview of which types of cont
 - Peak Engagement Times: Users are most active early in the morning (5–9 AM) and late at night (10–11 PM), with 6 AM seeing the highest activity.
 
 ## Recommendations
-- Focus on creating more content in the top-performing categories such as Animals, Science, Healthy Eating, Technology, and Food, since they show the strongest user engagement.
+- Social Buzz can feature high-performing categories like Animals, Science, Healthy Eating, Technology and Food more prominently on the homepage, explore feed, or trending sections. This helps sustain engagement by aligning the content discovery experience with what users already respond to most.
 
-- Leverage visual contents like Photos and Videos, which consistently receive higher engagement compared to Audio and Other types.
+- Since Photos and Videos generate higher reactions, Social Buzz should consider updating its recommendation engine to slightly prioritize these formats. This ensures users see more engaging content and improves the overall scroll-through experience.
 
-- Schedule key posts during early morning hours (5–9 AM) and late at night (10–11 PM) to align with peak user activity.
+- With Positive sentiment being the most common reaction, Social Buzz can develop content filters or promote “uplifting” posts to help maintain a healthy, community-driven platform environment.
 
-- Investigate the 3.8% of posts with zero engagement. Review content strategy and consider experimenting with formats, headlines, or timing.
+- Since users are most engaged early in the morning (around 6 AM) and late at night (10–11 PM), Social Buzz can take advantage of these busy hours. This is a great time to schedule things like platform updates, content promotions, or even send notifications, so they reach more users when they're already online.
 
-- Given that Positive sentiment dominates user reactions, continue developing uplifting or inspiring content to sustain user interest and loyalty.
+- Around 3.8% of posts receive zero reactions. Social Buzz can tag this content category internally and analyze why it underperforms — whether due to content quality, timing, or visibility issues. This insight can feed back into algorithm improvements and creator feedback tools.
 
 ## Interactive Features
 To enhance exploration and executive decision-making, the report includes:
