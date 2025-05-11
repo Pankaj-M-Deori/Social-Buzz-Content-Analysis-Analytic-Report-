@@ -5,6 +5,17 @@ This Power BI report delivers actionable insights on how users engage with conte
 ## Project Objective
 Accenture’s internal team wanted a data-driven overview of which types of content perform best. The primary objective was to identify the Top 5 Content Categories with the highest aggregate popularity scores, and uncover patterns in user engagement, sentiment, and timing. Using over 1,000 content pieces and 24,000+ user reactions, this report helps answer key business questions with clarity and precision through dynamic visuals.
 
+## Why This Project Matters ?
+This project demonstrates more than just technical skills, it shows I can:
+
+- Understand and prioritize executive goals.
+
+- Transform raw data into insightful visuals for better story-telling.
+
+- Present information in a way that’s easy to grasp for both technical and non-technical stakeholders.
+
+- Build end-to-end BI solutions that combine data modeling, DAX, and designing user-friendly report layout.
+
 ## Business Questions Answered
 - Which content categories generate the most engagement?
 
@@ -81,17 +92,6 @@ To enhance exploration and executive decision-making, the report includes:
 - Hierarchical Drill-Down: In the “Reactions by Month” line chart, drill from Month to Weekday for more granular trend analysis.
 
 - Page Navigation: Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) to move between: Overview Page, Executive Report and Detail Page.
-
-## Why This Project Matters ?
-This project demonstrates more than just technical skills, it shows I can:
-
-- Understand and prioritize executive goals.
-
-- Transform raw data into insightful visuals for better story-telling.
-
-- Present information in a way that’s easy to grasp for both technical and non-technical stakeholders.
-
-- Build end-to-end BI solutions that combine data modeling, DAX, and designing user-friendly report layout.
 
 ## Strategic Opportunity for Social Buzz
 The findings from this project do more than highlight what’s working on the platform, they also reveal a chance for Social Buzz to support creators and grow the platform through a data-powered Freemium offering. Introducing a Creator Insights Program could help content creators improve their performance using platform data, while also opening up a new revenue stream for Social Buzz.
