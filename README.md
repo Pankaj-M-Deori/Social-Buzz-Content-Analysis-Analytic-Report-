@@ -111,7 +111,7 @@ This project demonstrates more than just technical skills, it shows I can:
 ## Strategic Opportunity for Social Buzz
 The findings from this project do more than highlight what’s working — they also reveal a chance for Social Buzz to support creators and grow the platform through a data-powered Freemium offering. Introducing a Creator Insights Program could help content creators improve their performance using platform data, while also opening up a new revenue stream for Social Buzz.
 
-href="Free Features (available to all creators)":
+<a Free Features (available to all creators)>:
 These features would help every creator — even beginners — understand and improve their content strategy:
 
 - Personalized performance insights: Stats like top-performing content types, average reaction score, and engagement patterns over time.
