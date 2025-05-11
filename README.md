@@ -82,7 +82,7 @@ This project demonstrates more than just technical skills, it shows I can:
 
 Note: A separate <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation<a/> is available for those who want to explore the full analytical process including data preparation, modeling, and DAX formulation.
 
-## Interactive Features
+## Interactive Features (for Non-Technical Users)
 To enhance exploration and executive decision-making, the report includes:
 
 - Bookmark Toggle: Easily switch between Top 5 and Bottom 5 content categories using the button on the top-right of the bar chart (Ctrl + Click to interact).
