@@ -19,7 +19,7 @@ This project demonstrates more than just technical skills, it shows I can:
 ## Business Questions Answered
 - **Which content categories generate the most engagement?**
 
-  - <u/>**Business Logic:**<u> Knowing which categories are most engaging (like Animals, Science, or Food) helps Social Buzz highlight what users enjoy the most. It also helps the team promote trending topics and give content creators a better idea of what audiences want.
+  - <u>**Business Logic:**</u> Knowing which categories are most engaging (like Animals, Science, or Food) helps Social Buzz highlight what users enjoy the most. It also helps the team promote trending topics and give content creators a better idea of what audiences want.
 
 - **What are the most popular types of content (such as, photo, video, GIF, audio)?**
 
