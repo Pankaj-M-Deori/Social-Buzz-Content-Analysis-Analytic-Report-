@@ -19,7 +19,7 @@ This project demonstrates more than just technical skills, it shows I can:
 ## Business Questions Answered
 - **Which content categories generate the most engagement?**
 
-  - **</u>Business Logic<u>:** Knowing which categories are most engaging (like Animals, Science, or Food) helps Social Buzz highlight what users enjoy the most. It also helps the team promote trending topics and give content creators a better idea of what audiences want.
+  - **Business Logic:** Knowing which categories are most engaging (like Animals, Science, or Food) helps Social Buzz highlight what users enjoy the most. It also helps the team promote trending topics and give content creators a better idea of what audiences want.
 
 - **What are the most popular types of content (such as, photo, video, GIF, audio)?**
 
@@ -39,78 +39,78 @@ This project demonstrates more than just technical skills, it shows I can:
   - **Business Logic:** If certain content doesn’t get any engagement, it could mean it’s not reaching the right audience or isn’t as relevant. Understanding this helps the platform improve content discovery and support creators in making better-performing posts.
 
 ## Key Insights
-- Top Categories: Animals, Science, Healthy Eating, Technology, and Food consistently drive the highest scores and engagement.
+- **Top Categories:** **Animals, Science, Healthy Eating, Technology,** and **Food** consistently drive the highest scores and engagement.
 
-- Content Type: Photos are the most engaging, followed by Videos and GIFs. Audio ranks lowest in terms of user interaction.
+- **Content Type:** **Photos** are the most engaging, followed by **Videos** and **GIFs**. **Audio** ranks lowest in terms of user interaction.
 
-- Sentiment: Reactions are predominantly Positive, followed by Negative, and then Neutral.
+- **Sentiment:** Reactions are predominantly **Positive**, followed by **Negative**, and then **Neutral**.
 
-- Performance: The average content score is 39.62, and 3.8% of posts receive zero reactions, indicating room for content optimization.
+- **Performance:** The average content score is **39.62**, and **3.8%** of posts receive zero reactions, indicating room for content optimization.
 
-- Peak Engagement Times: Users are most active early in the morning (5–9 AM) and late at night (10–11 PM), with 6 AM seeing the highest activity.
+- **Peak Engagement Times:** Users are most active early in the morning **(5–9 AM)** and late at night **(10–11 PM),** with **6 AM** seeing the highest activity.
 
 ![Executive Report Page](https://github.com/user-attachments/assets/7e59bef1-3359-4c78-95cb-e8336673c684)
 ![Detail Page](https://github.com/user-attachments/assets/03a6c098-15c6-4cd7-95cc-459a1694395c)
 
 ## Recommendations
-- Social Buzz can feature high-performing categories like Animals, Science, Healthy Eating, Technology and Food more prominently on the homepage, explore feed, or trending sections. This helps sustain engagement by aligning the content discovery experience with what users already respond to most.
+- Social Buzz can feature high-performing categories like **Animals, Science, Healthy Eating, Technology** and **Food** more prominently on the homepage, explore feed, or trending sections. This helps sustain engagement by aligning the content discovery experience with what users already respond to most.
 
-- Since Photos and Videos generate higher reactions, Social Buzz should consider updating its recommendation engine to slightly prioritize these formats. This ensures users see more engaging content and improves the overall scroll-through experience.
+- Since **Photos** and **Videos** generate higher reactions, Social Buzz should consider updating its recommendation engine to slightly prioritize these formats. This ensures users see more engaging content and improves the overall scroll-through experience.
 
-- With Positive sentiment being the most common reaction, Social Buzz can develop content filters or promote “uplifting” posts to help maintain a healthy, community-driven platform environment.
+- With **Positive** sentiment being the most common reaction, Social Buzz can develop content filters or promote “uplifting” posts to help maintain a healthy, community-driven platform environment.
 
-- Since users are most engaged early in the morning (around 6 AM) and late at night (10–11 PM), Social Buzz can take advantage of these busy hours. This is a great time to schedule things like platform updates, content promotions, or even send notifications, so they reach more users when they're already online.
+- Since users are most engaged early in the morning **(around 6 AM)** and late at night **(10–11 PM)**, Social Buzz can take advantage of these busy hours. This is a great time to schedule things like platform updates, content promotions, or even send notifications, so they reach more users when they're already online.
 
-- Around 3.8% of posts receive zero reactions. Social Buzz can tag this content category internally and analyze why it underperforms, whether due to content quality, timing, or visibility issues. This insight can feed back into algorithm improvements and creator feedback tools.
+- Around **3.8%** of posts receive zero reactions. Social Buzz can tag this content category internally and analyze why it underperforms, whether due to content quality, timing, or visibility issues. This insight can feed back into algorithm improvements and creator feedback tools.
 
 ## Tools and Skills Used
-- Power BI Desktop: Report creation and visual storytelling.
+- **Power BI Desktop:** Report creation and visual storytelling.
 
-- Power Query: To effectively clean and transform the data as per the analysis requirement.
+- **Power Query:** To effectively clean and transform the data as per the analysis requirement.
 
-- DAX (Data Analysis Expressions): To create complex measure calculations, calculated tables and calculated columns.
+- **DAX (Data Analysis Expressions):** To create complex measure calculations, calculated tables and calculated columns.
 
-- Data Modeling: Relationship building, column formatting, and hierarchy creation.
+- **Data Modeling:** Relationship building, column formatting, and hierarchy creation.
 
-- Effective Visualization: Insightful, intuitive visual layout for business users.
+- **Effective Visualization:** Insightful, intuitive visual layout for business users.
 
-- Power BI Service: To deploy and maintain Power BI assets.
+- **Power BI Service:** To deploy and maintain Power BI assets.
 
-Note: A separate <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation<a/> is available for those who want to explore the full analytical process including data preparation, modeling, and DAX formulation.
+*Note: A separate <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Technical Documentation<a/> is available for those who want to explore the full analytical process including data preparation, modeling, and DAX formulation.*
 
 ## Interactive Features (for Non-Technical Users)
 To enhance exploration and executive decision-making, the report includes:
 
-- Bookmark Toggle: Easily switch between Top 5 and Bottom 5 content categories using the button on the top-right of the bar chart (Ctrl + Click to interact).
+- **Bookmark Toggle:** Easily switch between **Top 5 and Bottom 5 content categories** using the button on the top-right of the bar chart **(Ctrl + Click to interact)**.
 
-- Drill-Through Pages: Right-click on data points related to Content Type, Sentiment, or Content Category to access a more detailed view.
+- **Drill-Through Pages:** **Right-click** on data points related to **Content Type, Sentiment,** or **Content Category** to access a more detailed view.
 
-- Hierarchical Drill-Down: In the “Reactions by Month” line chart, drill from Month to Weekday for more granular trend analysis.
+- **Hierarchical Drill-Down:** In the **“Reactions by Month”** line chart, drill from **Month to Weekday** for more granular trend analysis.
 
-- Page Navigation: Use the page navigator at the bottom of the report Overview Page (Ctrl + Click) to move between: Overview Page, Executive Report and Detail Page.
+- **Page Navigation:** Use the **page navigator** at the bottom of the report **Overview Page (Ctrl + Click)** to move between: **Overview Page, Executive Report and Detail Page**.
 
 ## Strategic Opportunity for Social Buzz
 The findings from this project do more than highlight what’s working on the platform, they also reveal a chance for Social Buzz to support creators and grow the platform through a data-powered Freemium offering. Introducing a Creator Insights Program could help content creators improve their performance using platform data, while also opening up a new revenue stream for Social Buzz.
 
-- Free Features (available to all creators): These features would help every creator even beginners to understand and improve their content strategy:
+- **Free Features (available to all creators):** These features would help every creator even beginners to understand and improve their content strategy:
 
-  - Personalized performance insights: Stats like top-performing content types, average reaction score, and engagement patterns over time.
+  - **Personalized performance insights:** Stats like top-performing content types, average reaction score, and engagement patterns over time.
 
-  - Posting time suggestions: Based on peak user activity windows (like 6 AM and 10–11 PM), creators can optimize when to publish their posts.
+  - **Posting time suggestions:** Based on peak user activity windows (like 6 AM and 10–11 PM), creators can optimize when to publish their posts.
 
-  - Basic content tips: Simple, actionable suggestions like “Photos and GIFs get more reactions than audio content.”
+  - **Basic content tips:** Simple, actionable suggestions like “Photos and GIFs get more reactions than audio content.”
 
-- Premium Features (available through a subscription plan): For creators who want to take their performance to the next level, the premium tier could include:
+- **Premium Features (available through a subscription plan):** For creators who want to take their performance to the next level, the premium tier could include:
 
-  - Platform-wide trend reports: Insights into which categories, formats, and sentiments are currently trending across all of Social Buzz.
+  - **Platform-wide trend reports:** Insights into which categories, formats, and sentiments are currently trending across all of Social Buzz.
 
-  - Competitive benchmarks: Compare a creator’s performance to platform averages or their own historical performance.
+  - **Competitive benchmarks:** Compare a creator’s performance to platform averages or their own historical performance.
 
-  - Advanced content strategy tips: In-depth guides or personalized recommendations based on reaction type, sentiment trends, and audience behavior.
+  - **Advanced content strategy tips:** In-depth guides or personalized recommendations based on reaction type, sentiment trends, and audience behavior.
 
-  - Access to learning resources: Exclusive tutorials, webinars, and expert mentorship on how to grow on the platform.
+  - **Access to learning resources:** Exclusive tutorials, webinars, and expert mentorship on how to grow on the platform.
 
-- Why This Freemium Model Works for Social Buzz ?
+- **Why This Freemium Model Works for Social Buzz ?**
   - Boosts creator engagement by helping users improve their content.
 
   - Improves overall platform content quality, which attracts more users.
