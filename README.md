@@ -134,4 +134,4 @@ This approach follows a proven model already used by platforms like YouTube (Stu
 
 - <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social_Buzz_Technical_Documentation.pdf">Full Technical Documentation
 
-Note: If you want to view the report in Power BI Desktop, click <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social%20Buzz.pbix">Social_Buzz_Report.pbix<a/>
+*Note: If you want to view the report in Power BI Desktop, click <a href="https://github.com/Pankaj-M-Deori/Social-Buzz-Content-Analysis-Analytic-Report-/blob/main/Social%20Buzz.pbix">Social_Buzz_Report.pbix<a/>*
