@@ -98,7 +98,7 @@ The findings from this project do more than highlight what’s working on the pl
 
   - **Posting time suggestions:** Based on peak user activity windows (like 6 AM and 10–11 PM), creators can optimize when to publish their posts.
 
-  - **Basic content tips:** Simple, actionable suggestions like “Photos and GIFs get more reactions than audio content.”
+  - **Basic content tips:** Simple, actionable suggestions like “Photos and Videos get more reactions than GIFs and Audio content.”
 
 - **Premium Features (available through a subscription plan):** For creators who want to take their performance to the next level, the premium tier could include:
 
