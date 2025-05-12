@@ -87,7 +87,7 @@ To enhance exploration and executive decision-making, the report includes:
 
 - **Hierarchical Drill-Down:** In the **“Reactions by Month”** line chart, drill from **Month to Weekday** for more granular trend analysis.
 
-- **Page Navigation:** Use the **page navigator** at the bottom of the report **Overview Page (Ctrl + Click)** to move between: **Overview Page, Executive Report and Detail Page**.
+- **Page Navigation:** Use the **Page Navigator** at the bottom of the report **Overview Page (Ctrl + Click)** to move between: **Overview Page, Executive Report** and **Detail Page**.
 
 ## Strategic Opportunity for Social Buzz
 The findings from this project do more than highlight what’s working on the platform, they also reveal a chance for Social Buzz to support creators and grow the platform through a data-powered Freemium offering. Introducing a Creator Insights Program could help content creators improve their performance using platform data, while also opening up a new revenue stream for Social Buzz.
